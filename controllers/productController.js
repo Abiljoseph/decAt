@@ -1,4 +1,5 @@
 
+// getiing all products
 
 const GetAllProducts = (req, res) => {
     try {
