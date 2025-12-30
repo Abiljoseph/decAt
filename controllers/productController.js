@@ -1,5 +1,5 @@
 
-// getiing all products
+// getiing all products for experimental branch
 
 const GetAllProducts = (req, res) => {
     try {
