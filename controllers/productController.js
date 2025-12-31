@@ -1,5 +1,5 @@
 
-// getiing all products for experimental branch
+// getiing all products for experimental branch new updation
 
 const GetAllProducts = (req, res) => {
     try {
